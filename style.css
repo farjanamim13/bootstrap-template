@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+.main-navbar .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: rgb(26 158 13);
+}
+/* slider */
+
+.slider-content {
+    padding: 120px 60px;
+}
+
+.single-product{
+    margin-bottom: 24px;
+}
+
+.rating i{
+    color: orange;
+}
+.section-padding{
+    padding: 74px 0;
+}
+
+/* contact section css */
+#contact{
+    background: #3E2092;
+}
+.left-contact-info{
+    color: #e9e7e7;
+}
+.left-contact-info h3{
+    color: #fff;
+}
+.contact-item {
+    margin-bottom: 24px;
+}
+
+.contact-item h4 {
+    font-size: 18px;
+    color: #fff;
+}
+
+.contact-item a {
+    color: #e9e7e7;
+    text-decoration: none;
+}
